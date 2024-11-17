@@ -7,7 +7,7 @@ import Newsboard from "./Components/Newsboard"
 const App = () => {
   const [category, setcategory] = useState('top');
 
-  const apiKey = "pub_48687973effc737ad6a2e5122bb8224520cb4";
+  const apiKey = "pub_59504ebb6b643d5513d73107748f3eb1cf33c";
   
   // console.log(`Your API key is ${apiKey}`);
   return (
